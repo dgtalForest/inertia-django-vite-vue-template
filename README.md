@@ -18,10 +18,10 @@ A minimal, working template for Inertia + Django + Vite + Vue.
    a. Clone the repo (without the git history):
 
    ```sh
-   npx degit https://github.com/mujahidfa/inertia-django-vite-vue-minimal
+   npx degit https://github.com/dgtalforest/inertia-django-vite-vue-minimal
    ```
 
-   b. Or, create a repo based on this template via the [GitHub template generator](https://github.com/mujahidfa/inertia-django-vite-vue-minimal/generate).
+   b. Or, create a repo based on this template via the [GitHub template generator](https://github.com/dgtalforest/inertia-django-vite-vue-minimal/generate).
 
 2. Install required Python packages.
 
